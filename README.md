@@ -20,7 +20,26 @@ A mobile-first **Progressive Web App (PWA)** for tracking gym workouts in real t
 
 ---
 
-## 🚀 Installation
+## � Screenshots
+
+<table>
+  <tr>
+    <td><img src="docs/screenshots/01.png" width="180"/></td>
+    <td><img src="docs/screenshots/02.png" width="180"/></td>
+    <td><img src="docs/screenshots/03.png" width="180"/></td>
+    <td><img src="docs/screenshots/04.png" width="180"/></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/05.png" width="180"/></td>
+    <td><img src="docs/screenshots/06.png" width="180"/></td>
+    <td><img src="docs/screenshots/07.png" width="180"/></td>
+    <td><img src="docs/screenshots/08.png" width="180"/></td>
+  </tr>
+</table>
+
+---
+
+## �🚀 Installation
 
 ### Portainer (recommended)
 
