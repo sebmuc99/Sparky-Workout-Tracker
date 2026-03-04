@@ -24,16 +24,16 @@ A mobile-first **Progressive Web App (PWA)** for tracking gym workouts in real t
 
 <table>
   <tr>
-    <td><img src="docs/screenshots/01.png" width="180"/></td>
-    <td><img src="docs/screenshots/02.png" width="180"/></td>
-    <td><img src="docs/screenshots/03.png" width="180"/></td>
-    <td><img src="docs/screenshots/04.png" width="180"/></td>
+    <td align="center"><img src="docs/screenshots/dashboard.png" width="180"/><br/><sub>Dashboard</sub></td>
+    <td align="center"><img src="docs/screenshots/exercise-ready.png" width="180"/><br/><sub>Exercise selected</sub></td>
+    <td align="center"><img src="docs/screenshots/counter-mode.png" width="180"/><br/><sub>Counter mode</sub></td>
+    <td align="center"><img src="docs/screenshots/rest-timer.png" width="180"/><br/><sub>Rest timer</sub></td>
   </tr>
   <tr>
-    <td><img src="docs/screenshots/05.png" width="180"/></td>
-    <td><img src="docs/screenshots/06.png" width="180"/></td>
-    <td><img src="docs/screenshots/07.png" width="180"/></td>
-    <td><img src="docs/screenshots/08.png" width="180"/></td>
+    <td align="center"><img src="docs/screenshots/next-set.png" width="180"/><br/><sub>Ready for next set</sub></td>
+    <td align="center"><img src="docs/screenshots/finish-confirmation.png" width="180"/><br/><sub>Finish confirmation</sub></td>
+    <td align="center"><img src="docs/screenshots/timer-mode.png" width="180"/><br/><sub>Timer Only mode</sub></td>
+    <td align="center"><img src="docs/screenshots/rep-input.png" width="180"/><br/><sub>Rep input (Timer Only)</sub></td>
   </tr>
 </table>
 
