@@ -1,0 +1,14 @@
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+dist/
+
+# Local env overrides (never commit real keys)
+.env.local
+.env.*.local

@@ -1,0 +1,9 @@
+services:
+  sparky-workout-tracker:
+    image: ghcr.io/sebmuc99/sparky-workout-tracker:latest
+    container_name: sparky-workout-tracker
+    restart: unless-stopped
+    ports:
+      - "3010:80"
+    # environment:
+    #   - VITE_SPARKY_URL=https://your-sparky-instance.example.com
